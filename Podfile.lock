@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (4.5.1)
+  - IQKeyboardManagerSwift (4.0.10)
+  - KVLoading (1.4)
+  - Message (1.0.2)
+  - SwiftyJSON (4.0.0-alpha.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - IQKeyboardManagerSwift (= 4.0.10)
+  - KVLoading (~> 1.4)
+  - Message (~> 1.0)
+  - SwiftyJSON (from `https://github.com/SwiftyJSON/SwiftyJSON.git`)
+
+EXTERNAL SOURCES:
+  SwiftyJSON:
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+CHECKOUT OPTIONS:
+  SwiftyJSON:
+    :commit: 4e117f4709e239bfa19dcdcce1b077be88f956b2
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  IQKeyboardManagerSwift: 75ba21a23794a1e6b6fe6d9a267ea17f80e06771
+  KVLoading: 64785bf0333c1873265c4a7c7cbdb4565ef63d55
+  Message: 06e21384ee764541143c0793d948a240c6255313
+  SwiftyJSON: c4d27c2ca659d5c91460cd17cc60fd212b26074d
+
+PODFILE CHECKSUM: 7cc525ea9aeecb449657c48ac5a62f46234ae8dc
+
+COCOAPODS: 1.2.1
